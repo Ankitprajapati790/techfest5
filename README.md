@@ -16,7 +16,7 @@ Here’s what the responsive website looks like on different devices:
 
 
 Mobile view (iphone SE)
-<img width="1920" height="1080" alt="Screenshot 2025-07-11 115540" src="https://github.com/user-attachments/assets/e37bf430-cbde-487e-ac94-91aafd165b5d" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-11 115628" src="https://github.com/user-attachments/assets/5d92ecad-ea94-4d44-acc7-c9cec9d3f790" />
 
 
 ---
